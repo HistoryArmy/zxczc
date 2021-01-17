@@ -1,0 +1,14 @@
+{
+  "addedQueue": " Sıraya eklendi.",
+  "noVC": "Bir ses kanalında olmanız gerekir!",
+  "noConnect": "Bu Ses Kanalına bağlanma iznim yok!",
+  "noSpeak": "Bu ses kanalında konuşma iznim yok!",
+  "noResponse": "Hayır veya geçersiz yanıt verildi.",
+  "noResults": "Hiçbir şarkı bulamadım.",
+  "noPlaying": "Oynatılan hiçbir şey yok.",
+  "Skipped": "Şarkıyı başarıyla atladım.",
+  "nowPlaying": "Şimdi çalıyor...",
+  "Stopped": "Oynatıcıyı durdurun ve listeyi temizleyin.",
+  "Resumed": "▶  Müzik sizin için devam ettirildi!",
+  "Paused": "⏸️ Müzik duraklatıldı!"
+}
